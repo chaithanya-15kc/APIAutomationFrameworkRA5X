@@ -30,7 +30,7 @@
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
       <version>7.9.0</version>
-      <scope>test</scope>
+      <scope>compiler</scope>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.uncommons/reportng -->
@@ -71,6 +71,8 @@
       <artifactId>javafaker</artifactId>
       <version>1.0.2</version>
     </dependency>
+
+
 
   </dependencies>
 </project>
